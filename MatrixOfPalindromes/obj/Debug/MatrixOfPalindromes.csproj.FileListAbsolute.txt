@@ -1,0 +1,1 @@
+c:\users\gloydius\documents\visual studio 2013\Projects\HomeworkCSharpAdvancedTopics\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.exe.config
